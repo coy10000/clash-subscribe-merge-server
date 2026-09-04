@@ -1,0 +1,2 @@
+# 运行依赖: 仅 PyYAML (server.py 首次运行缺失时也会自动 pip 安装)
+pyyaml>=6.0

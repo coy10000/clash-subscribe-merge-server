@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 运行时状态文件 (含节点测速/屏蔽数据, 勿提交)
+node_status.json
+blocklist.json
+ruleset_versions.json
+
+# 离线规则包产物
+offline_pack_*.zip
+
+# 本地配置/环境
+.env
+config.local.json
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
