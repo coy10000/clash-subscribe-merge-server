@@ -1,6 +1,6 @@
 # Clash Subscribe Merge Server
 
-> 本地订阅合集自动合并分享服务 —— 读取 Clash Verge 中已有的订阅，合并成一份统一订阅，通过 HTTP 分享给本机与局域网内的 Clash 客户端。
+> 本地订阅合集自动合并分享服务 —— 读取 Clash Verge 中已有的订阅，合并成一份统一订阅，通过 HTTP 分享给本机与局域网内的 Clash 客户端、ios小火箭。
 
 无需手动维护订阅链接：所有订阅源直接取自本机 Clash Verge 已配置的订阅，**源码不含任何订阅 URL / 机场信息 / 个人数据**。
 
